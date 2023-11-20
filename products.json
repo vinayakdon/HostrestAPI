@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Iphone",
+        "price": 123,
+        "company": "Nike"
+    },
+    {
+        "name": "iphone 10",
+        "price": 112,
+        "company": "Adidas"
+    },
+    {
+        "name": "samsung",
+        "price": 113,
+        "company": "Nike"
+    },
+    {
+        "name": "samsung galaxy",
+        "price": 123,
+        "company": "Puma"
+    }
+]
